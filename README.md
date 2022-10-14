@@ -6,7 +6,7 @@
 
 Os usuários são organizados segundo os grupos de trabalho com seus respectivos atributos e permissões estruturadas de forma ágil e eficiente via código.
  
-[![](https://github.com/GerbisonSousa/Infraestrutura-via-bash?username=GerbisonSousa&repo=Infraestrutura-via-bash)](https://github.com/GerbisonSousa/Infraestrutura-via-bash)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GerbisonSousa&repo=Infraestrutura-via-bash)](https://github.com/GerbisonSousa/Infraestrutura-via-bash)
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
