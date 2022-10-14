@@ -3,6 +3,7 @@
   - :white_check_mark: Diretórios :four:
   - :white_check_mark: Grupos de trabalho :three:
   - :white_check_mark: Usuários :nine:
+
 Os usuários são organizados segundo os grupos de trabalho com seus respectivos atributos e permissões estruturadas de forma ágil e eficiente via código.
  
 [![](https://github.com/GerbisonSousa/Infraestrutura-via-bash?username=GerbisonSousa&repo=Infraestrutura-via-bash)](https://github.com/GerbisonSousa/Infraestrutura-via-bash)
