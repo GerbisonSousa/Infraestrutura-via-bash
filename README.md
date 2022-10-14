@@ -1,8 +1,8 @@
 # Infraestrutura-via-bash
 ###### Infraestrutura via arquivo do tipo Bash Script para gerar novos:
-  - :white_check_mark: Diretórios :four:
-  - :white_check_mark: Grupos de trabalho :three:
-  - :white_check_mark: Usuários :nine:
+  - Diretórios :four: :white_check_mark:
+  - Grupos de trabalho :three: :white_check_mark:
+  - Usuários :nine: :white_check_mark:
 
 Os usuários são organizados segundo os grupos de trabalho com seus respectivos atributos e permissões estruturadas de forma ágil e eficiente via código.
  
