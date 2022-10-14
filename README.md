@@ -1,6 +1,6 @@
 # Infraestrutura-via-bash
 ###### Infraestrutura via Script Bash para gera novos:
-  - [x] Diretórios
+  - [x] Diretórios#739
   - [x] Grupos de trabalho
   - [x] Usuários
   - Organizados com seus respectivos atributos e permissões via código.
